@@ -11,7 +11,7 @@
     "> 1%",
     "last 3 version"
   ],
-  "author": "Jack",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.2.0",
